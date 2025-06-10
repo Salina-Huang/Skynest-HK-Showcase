@@ -1,8 +1,7 @@
-**“Online Rental House SkyNest Platform”**
+# “Online Rental House SkyNest Platform” 
 
-**Table of Contents**
 
-# 目录
+# Table of Contents
 
 [1. Executive Summary [3](#executive-summary)](#executive-summary)
 
